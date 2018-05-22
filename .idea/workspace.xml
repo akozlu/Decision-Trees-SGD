@@ -1,0 +1,961 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="147899e2-844f-4206-be2c-d123c9649be7" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/decisiontree$DecisionStump.coverage" NAME="DecisionStump Coverage Results" MODIFIED="1518033540843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/decisiontree$DecisionTree__1_.coverage" NAME="DecisionTree (1) Coverage Results" MODIFIED="1518037414370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/decisiontree$DataExtractionTest.coverage" NAME="DataExtractionTest Coverage Results" MODIFIED="1517691638736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="DataExtraction.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/DataExtraction.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-158">
+              <caret line="33" column="23" lean-forward="false" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
+              <folding>
+                <element signature="e#47#448#0" expanded="false" />
+                <element signature="e#481#586#0" expanded="false" />
+                <element signature="e#1128#1660#0" expanded="false" />
+                <element signature="e#1700#1748#0" expanded="false" />
+                <element signature="e#1793#1819#0" expanded="false" />
+                <element signature="e#1861#1894#0" expanded="false" />
+                <element signature="e#1942#1977#0" expanded="false" />
+                <element signature="e#2028#2061#0" expanded="false" />
+                <element signature="e#2092#2105#0" expanded="false" />
+                <element signature="e#2137#2176#0" expanded="false" />
+                <element signature="e#2214#2306#0" expanded="false" />
+                <element signature="e#2351#2511#0" expanded="false" />
+                <element signature="e#2558#5394#0" expanded="false" />
+                <element signature="e#2610#5394#0" expanded="false" />
+                <element signature="e#2610#2623#0" expanded="false" />
+                <element signature="e#5435#9291#0" expanded="false" />
+                <element signature="e#9349#9949#0" expanded="false" />
+                <element signature="e#9983#10264#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DecisionTree.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/venv/DecisionTree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="117">
+              <caret line="250" column="19" lean-forward="false" selection-start-line="250" selection-start-column="19" selection-end-line="250" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+                <element signature="e#1468#1491#0" expanded="false" />
+                <element signature="e#1545#4285#0" expanded="false" />
+                <element signature="e#4330#5501#0" expanded="false" />
+                <element signature="e#5669#6082#0" expanded="false" />
+                <element signature="e#6172#6991#0" expanded="false" />
+                <element signature="e#8476#8671#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SGD.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/SGD.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="173">
+              <caret line="159" column="0" lean-forward="false" selection-start-line="159" selection-start-column="0" selection-end-line="159" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+                <element signature="e#620#1131#0" expanded="false" />
+                <element signature="e#1242#3266#0" expanded="false" />
+                <element signature="e#3312#4562#0" expanded="false" />
+                <element signature="e#4728#5172#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DecisionStump.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/DecisionStump.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="23" lean-forward="false" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+              <folding>
+                <element signature="e#5506#6541#0" expanded="false" />
+                <element signature="e#6602#6933#0" expanded="false" />
+                <element signature="e#6990#8186#0" expanded="false" />
+                <element signature="e#8241#11332#0" expanded="false" />
+                <element signature="e#11366#11389#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>print</find>
+      <find>type</find>
+      <find>]</find>
+      <find>efrat abramov</find>
+      <find>edna arbel</find>
+      <find>keren</find>
+      <find>hiroshi motoda</find>
+      <find>[</find>
+      <find>x_1</find>
+      <find>)</find>
+      <find>bestfit</find>
+      <find>olivier vel</find>
+      <find>yael</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ali.py" />
+        <option value="$PROJECT_DIR$/venv/lib/python3.6/site-packages/eli5/sklearn/explain_weights.py" />
+        <option value="$PROJECT_DIR$/venv/DataExtractionTest.py" />
+        <option value="$PROJECT_DIR$/venv/badges/badges.modified.data.fold1" />
+        <option value="$PROJECT_DIR$/venv/badges/badges.modified.data.test" />
+        <option value="$PROJECT_DIR$/venv/hw1.py" />
+        <option value="$PROJECT_DIR$/venv/SGD.py" />
+        <option value="$PROJECT_DIR$/venv/DataExtraction.py" />
+        <option value="$PROJECT_DIR$/venv/DecisionStump.py" />
+        <option value="$PROJECT_DIR$/venv/DecisionTree.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="46" />
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="830" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyPep8Inspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="decisiontree" type="b2602c69:ProjectViewProjectNode" />
+              <item name="decisiontree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="decisiontree" type="b2602c69:ProjectViewProjectNode" />
+              <item name="decisiontree" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.DecisionStump">
+    <configuration name="DataExtractionTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="decisiontree" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/DataExtractionTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="DecisionStump" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="decisiontree" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/DecisionStump.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="DecisionTree (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="decisiontree" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/DecisionTree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="DecisionTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="decisiontree" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/DataExtraction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="SGD" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="decisiontree" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/SGD.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="decisiontree" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.DecisionTree" />
+      <item index="1" class="java.lang.String" itemvalue="Python.DataExtractionTest" />
+      <item index="2" class="java.lang.String" itemvalue="Python.SGD" />
+      <item index="3" class="java.lang.String" itemvalue="Python.DecisionTree (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Python.DecisionStump" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.DecisionTree (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.DecisionStump" />
+        <item index="2" class="java.lang.String" itemvalue="Python.SGD" />
+        <item index="3" class="java.lang.String" itemvalue="Python.DecisionTree" />
+        <item index="4" class="java.lang.String" itemvalue="Python.DataExtractionTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="147899e2-844f-4206-be2c-d123c9649be7" name="Default" comment="" />
+      <created>1517614403054</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1517614403054</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="46" y="23" width="1440" height="830" extended-state="0" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292517" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37551022" sideWeight="0.44563663" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24821173" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="0" y="0" width="310" height="630" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37551022" sideWeight="0.55436337" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286052" sideWeight="0.4849688" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286052" sideWeight="0.48610324" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1695279" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295519" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27181688" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3995272" sideWeight="0.477595" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292517" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37557605" sideWeight="0.4427754" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24821173" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="0" y="0" width="310" height="630" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37557605" sideWeight="0.55722463" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286052" sideWeight="0.4849688" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286052" sideWeight="0.48610324" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16523606" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295519" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16595136" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3995272" sideWeight="0.477595" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="44" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/venv/DecisionTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1185">
+          <caret line="101" column="0" lean-forward="true" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#1468#1491#0" expanded="false" />
+            <element signature="e#1545#4285#0" expanded="false" />
+            <element signature="e#4330#5501#0" expanded="false" />
+            <element signature="e#5669#6082#0" expanded="false" />
+            <element signature="e#6172#6991#0" expanded="false" />
+            <element signature="e#8476#8671#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/SGD.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1710">
+          <caret line="340" column="0" lean-forward="true" selection-start-line="340" selection-start-column="0" selection-end-line="340" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#620#1131#0" expanded="false" />
+            <element signature="e#1242#3266#0" expanded="false" />
+            <element signature="e#3312#4562#0" expanded="false" />
+            <element signature="e#4728#5172#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/badges/badges.modified.data.fold5" />
+    <entry file="file://$PROJECT_DIR$/venv/DataExtractionTest.py" />
+    <entry file="file://$PROJECT_DIR$/venv/badges/badges.modified.data.fold1" />
+    <entry file="file://$PROJECT_DIR$/venv/DecisionStump.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding>
+            <element signature="e#5506#6541#0" expanded="false" />
+            <element signature="e#6602#6933#0" expanded="false" />
+            <element signature="e#6990#8186#0" expanded="false" />
+            <element signature="e#8241#11332#0" expanded="false" />
+            <element signature="e#11366#11389#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/DataExtraction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2250">
+          <caret line="188" column="23" lean-forward="false" selection-start-line="188" selection-start-column="23" selection-end-line="188" selection-end-column="23" />
+          <folding>
+            <element signature="e#47#448#0" expanded="false" />
+            <element signature="e#481#586#0" expanded="false" />
+            <element signature="e#1128#1660#0" expanded="false" />
+            <element signature="e#1700#1748#0" expanded="false" />
+            <element signature="e#1793#1819#0" expanded="false" />
+            <element signature="e#1861#1894#0" expanded="false" />
+            <element signature="e#1942#1977#0" expanded="false" />
+            <element signature="e#2028#2061#0" expanded="false" />
+            <element signature="e#2092#2105#0" expanded="false" />
+            <element signature="e#2137#2176#0" expanded="false" />
+            <element signature="e#2214#2306#0" expanded="false" />
+            <element signature="e#2351#2511#0" expanded="false" />
+            <element signature="e#2558#5394#0" expanded="false" />
+            <element signature="e#2610#5394#0" expanded="false" />
+            <element signature="e#2610#2623#0" expanded="false" />
+            <element signature="e#5435#9291#0" expanded="false" />
+            <element signature="e#9349#9949#0" expanded="false" />
+            <element signature="e#9983#10264#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/DecisionTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="43" column="76" lean-forward="true" selection-start-line="43" selection-start-column="76" selection-end-line="43" selection-end-column="76" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#1468#1491#0" expanded="false" />
+            <element signature="e#1545#4285#0" expanded="false" />
+            <element signature="e#4330#5501#0" expanded="false" />
+            <element signature="e#5669#6082#0" expanded="false" />
+            <element signature="e#6172#6991#0" expanded="false" />
+            <element signature="e#8476#8671#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/DataExtractionTest.py" />
+    <entry file="file://$PROJECT_DIR$/venv/DecisionStump.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1245">
+          <caret line="105" column="0" lean-forward="true" selection-start-line="105" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
+          <folding>
+            <element signature="e#5506#6541#0" expanded="false" />
+            <element signature="e#6602#6933#0" expanded="false" />
+            <element signature="e#6990#8186#0" expanded="false" />
+            <element signature="e#8241#11332#0" expanded="false" />
+            <element signature="e#11366#11389#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/DataExtraction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#47#448#0" expanded="false" />
+            <element signature="e#481#586#0" expanded="false" />
+            <element signature="e#1128#1660#0" expanded="false" />
+            <element signature="e#1700#1748#0" expanded="false" />
+            <element signature="e#1793#1819#0" expanded="false" />
+            <element signature="e#1861#1894#0" expanded="false" />
+            <element signature="e#1942#1977#0" expanded="false" />
+            <element signature="e#2028#2061#0" expanded="false" />
+            <element signature="e#2092#2105#0" expanded="false" />
+            <element signature="e#2137#2176#0" expanded="false" />
+            <element signature="e#2214#2306#0" expanded="false" />
+            <element signature="e#2351#2511#0" expanded="false" />
+            <element signature="e#2558#5394#0" expanded="false" />
+            <element signature="e#2610#5394#0" expanded="false" />
+            <element signature="e#2610#2623#0" expanded="false" />
+            <element signature="e#5435#9291#0" expanded="false" />
+            <element signature="e#9349#9949#0" expanded="false" />
+            <element signature="e#9983#10264#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/DecisionTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1425">
+          <caret line="142" column="20" lean-forward="false" selection-start-line="142" selection-start-column="20" selection-end-line="142" selection-end-column="55" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#1468#1491#0" expanded="false" />
+            <element signature="e#1545#4285#0" expanded="false" />
+            <element signature="e#4330#5501#0" expanded="false" />
+            <element signature="e#5669#6082#0" expanded="false" />
+            <element signature="e#6172#6991#0" expanded="false" />
+            <element signature="e#8476#8671#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/DecisionStump.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="915">
+          <caret line="86" column="41" lean-forward="false" selection-start-line="86" selection-start-column="41" selection-end-line="86" selection-end-column="41" />
+          <folding>
+            <element signature="e#5506#6541#0" expanded="false" />
+            <element signature="e#6602#6933#0" expanded="false" />
+            <element signature="e#6990#8186#0" expanded="false" />
+            <element signature="e#8241#11332#0" expanded="false" />
+            <element signature="e#11366#11389#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/DataExtractionTest.py" />
+    <entry file="file://$PROJECT_DIR$/venv/DataExtraction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#47#448#0" expanded="false" />
+            <element signature="e#481#586#0" expanded="false" />
+            <element signature="e#1128#1660#0" expanded="false" />
+            <element signature="e#1700#1748#0" expanded="false" />
+            <element signature="e#1793#1819#0" expanded="false" />
+            <element signature="e#1861#1894#0" expanded="false" />
+            <element signature="e#1942#1977#0" expanded="false" />
+            <element signature="e#2028#2061#0" expanded="false" />
+            <element signature="e#2092#2105#0" expanded="false" />
+            <element signature="e#2137#2176#0" expanded="false" />
+            <element signature="e#2214#2306#0" expanded="false" />
+            <element signature="e#2351#2511#0" expanded="false" />
+            <element signature="e#2558#5394#0" expanded="false" />
+            <element signature="e#2610#5394#0" expanded="false" />
+            <element signature="e#2610#2623#0" expanded="false" />
+            <element signature="e#5435#9291#0" expanded="false" />
+            <element signature="e#9349#9949#0" expanded="false" />
+            <element signature="e#9983#10264#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/DecisionTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="69" column="60" lean-forward="true" selection-start-line="56" selection-start-column="4" selection-end-line="69" selection-end-column="60" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#1468#1491#0" expanded="false" />
+            <element signature="e#1545#4285#0" expanded="false" />
+            <element signature="e#4330#5501#0" expanded="false" />
+            <element signature="e#5669#6082#0" expanded="false" />
+            <element signature="e#6172#6991#0" expanded="false" />
+            <element signature="e#8476#8671#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/DataExtractionTest.py" />
+    <entry file="file://$PROJECT_DIR$/venv/DataExtraction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#47#448#0" expanded="false" />
+            <element signature="e#481#586#0" expanded="false" />
+            <element signature="e#1128#1660#0" expanded="false" />
+            <element signature="e#1700#1748#0" expanded="false" />
+            <element signature="e#1793#1819#0" expanded="false" />
+            <element signature="e#1861#1894#0" expanded="false" />
+            <element signature="e#1942#1977#0" expanded="false" />
+            <element signature="e#2028#2061#0" expanded="false" />
+            <element signature="e#2092#2105#0" expanded="false" />
+            <element signature="e#2137#2176#0" expanded="false" />
+            <element signature="e#2214#2306#0" expanded="false" />
+            <element signature="e#2351#2511#0" expanded="false" />
+            <element signature="e#2558#5394#0" expanded="false" />
+            <element signature="e#2610#5394#0" expanded="false" />
+            <element signature="e#2610#2623#0" expanded="false" />
+            <element signature="e#5435#9291#0" expanded="false" />
+            <element signature="e#9349#9949#0" expanded="false" />
+            <element signature="e#9983#10264#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/DecisionTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="65" column="37" lean-forward="false" selection-start-line="65" selection-start-column="37" selection-end-line="65" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#1468#1491#0" expanded="false" />
+            <element signature="e#1545#4285#0" expanded="false" />
+            <element signature="e#4330#5501#0" expanded="false" />
+            <element signature="e#5669#6082#0" expanded="false" />
+            <element signature="e#6172#6991#0" expanded="false" />
+            <element signature="e#8476#8671#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/DataExtractionTest.py" />
+    <entry file="file://$PROJECT_DIR$/venv/SGD.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1500">
+          <caret line="100" column="0" lean-forward="true" selection-start-line="100" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#620#1131#0" expanded="false" />
+            <element signature="e#1242#3266#0" expanded="false" />
+            <element signature="e#3312#4562#0" expanded="false" />
+            <element signature="e#4728#5172#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/DataExtractionTest.py" />
+    <entry file="file://$PROJECT_DIR$/venv/DataExtraction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3315">
+          <caret line="221" column="0" lean-forward="false" selection-start-line="221" selection-start-column="0" selection-end-line="221" selection-end-column="0" />
+          <folding>
+            <element signature="e#47#448#0" expanded="false" />
+            <element signature="e#481#586#0" expanded="false" />
+            <element signature="e#1128#1660#0" expanded="false" />
+            <element signature="e#1700#1748#0" expanded="false" />
+            <element signature="e#1793#1819#0" expanded="false" />
+            <element signature="e#1861#1894#0" expanded="false" />
+            <element signature="e#1942#1977#0" expanded="false" />
+            <element signature="e#2028#2061#0" expanded="false" />
+            <element signature="e#2092#2105#0" expanded="false" />
+            <element signature="e#2137#2176#0" expanded="false" />
+            <element signature="e#2214#2306#0" expanded="false" />
+            <element signature="e#2351#2511#0" expanded="false" />
+            <element signature="e#2558#5394#0" expanded="false" />
+            <element signature="e#2610#5394#0" expanded="false" />
+            <element signature="e#2610#2623#0" expanded="false" />
+            <element signature="e#5435#9291#0" expanded="false" />
+            <element signature="e#9349#9949#0" expanded="false" />
+            <element signature="e#9983#10264#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/DataExtractionTest.py" />
+    <entry file="file://$PROJECT_DIR$/venv/SGD.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="54" column="52" lean-forward="false" selection-start-line="54" selection-start-column="52" selection-end-line="54" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#620#1131#0" expanded="false" />
+            <element signature="e#1242#3266#0" expanded="false" />
+            <element signature="e#3312#4562#0" expanded="false" />
+            <element signature="e#4728#5172#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/DataExtraction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3285">
+          <caret line="221" column="0" lean-forward="false" selection-start-line="221" selection-start-column="0" selection-end-line="221" selection-end-column="0" />
+          <folding>
+            <element signature="e#47#448#0" expanded="false" />
+            <element signature="e#481#586#0" expanded="false" />
+            <element signature="e#1128#1660#0" expanded="false" />
+            <element signature="e#1700#1748#0" expanded="false" />
+            <element signature="e#1793#1819#0" expanded="false" />
+            <element signature="e#1861#1894#0" expanded="false" />
+            <element signature="e#1942#1977#0" expanded="false" />
+            <element signature="e#2028#2061#0" expanded="false" />
+            <element signature="e#2092#2105#0" expanded="false" />
+            <element signature="e#2137#2176#0" expanded="false" />
+            <element signature="e#2214#2306#0" expanded="false" />
+            <element signature="e#2351#2511#0" expanded="false" />
+            <element signature="e#2558#5394#0" expanded="false" />
+            <element signature="e#2610#5394#0" expanded="false" />
+            <element signature="e#2610#2623#0" expanded="false" />
+            <element signature="e#5435#9291#0" expanded="false" />
+            <element signature="e#9349#9949#0" expanded="false" />
+            <element signature="e#9983#10264#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/DataExtractionTest.py" />
+    <entry file="file://$PROJECT_DIR$/venv/SGD.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="54" column="52" lean-forward="false" selection-start-line="54" selection-start-column="52" selection-end-line="54" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#620#1131#0" expanded="false" />
+            <element signature="e#1242#3266#0" expanded="false" />
+            <element signature="e#3312#4562#0" expanded="false" />
+            <element signature="e#4728#5172#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ali.py" />
+    <entry file="file://$PROJECT_DIR$/venv/badges/badges.modified.data.fold4" />
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/eli5/sklearn/explain_weights.py" />
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/eli5/sklearn/__init__.py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="39" lean-forward="false" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/sklearn/tree/tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="383" column="0" lean-forward="false" selection-start-line="383" selection-start-column="0" selection-end-line="383" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/sklearn/linear_model/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="304" column="0" lean-forward="false" selection-start-line="304" selection-start-column="0" selection-end-line="304" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/badges/badges.modified.data.fold5" />
+    <entry file="file://$PROJECT_DIR$/venv/badges/badges.modified.data.fold2" />
+    <entry file="file://$PROJECT_DIR$/venv/badges/badges.modified.data.fold3" />
+    <entry file="file://$PROJECT_DIR$/venv/DT1.png" />
+    <entry file="file://$PROJECT_DIR$/venv/pip-selfcheck.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/badges/badges.modified.data.fold1" />
+    <entry file="file://$PROJECT_DIR$/venv/DataExtractionTest.py" />
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/sklearn/utils/validation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="440" column="0" lean-forward="false" selection-start-line="440" selection-start-column="0" selection-end-line="440" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/badges/badges.modified.data.train" />
+    <entry file="file://$PROJECT_DIR$/venv/badges/badges.modified.data.test" />
+    <entry file="file://$PROJECT_DIR$/venv/hw1.py" />
+    <entry file="file://$PROJECT_DIR$/venv/test_labels.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/DecisionStump.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="23" lean-forward="false" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+          <folding>
+            <element signature="e#5506#6541#0" expanded="false" />
+            <element signature="e#6602#6933#0" expanded="false" />
+            <element signature="e#6990#8186#0" expanded="false" />
+            <element signature="e#8241#11332#0" expanded="false" />
+            <element signature="e#11366#11389#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/DataExtraction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-158">
+          <caret line="33" column="23" lean-forward="false" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
+          <folding>
+            <element signature="e#47#448#0" expanded="false" />
+            <element signature="e#481#586#0" expanded="false" />
+            <element signature="e#1128#1660#0" expanded="false" />
+            <element signature="e#1700#1748#0" expanded="false" />
+            <element signature="e#1793#1819#0" expanded="false" />
+            <element signature="e#1861#1894#0" expanded="false" />
+            <element signature="e#1942#1977#0" expanded="false" />
+            <element signature="e#2028#2061#0" expanded="false" />
+            <element signature="e#2092#2105#0" expanded="false" />
+            <element signature="e#2137#2176#0" expanded="false" />
+            <element signature="e#2214#2306#0" expanded="false" />
+            <element signature="e#2351#2511#0" expanded="false" />
+            <element signature="e#2558#5394#0" expanded="false" />
+            <element signature="e#2610#5394#0" expanded="false" />
+            <element signature="e#2610#2623#0" expanded="false" />
+            <element signature="e#5435#9291#0" expanded="false" />
+            <element signature="e#9349#9949#0" expanded="false" />
+            <element signature="e#9983#10264#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/SGD.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="159" column="0" lean-forward="false" selection-start-line="159" selection-start-column="0" selection-end-line="159" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#620#1131#0" expanded="false" />
+            <element signature="e#1242#3266#0" expanded="false" />
+            <element signature="e#3312#4562#0" expanded="false" />
+            <element signature="e#4728#5172#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/DecisionTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="250" column="19" lean-forward="false" selection-start-line="250" selection-start-column="19" selection-end-line="250" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#1468#1491#0" expanded="false" />
+            <element signature="e#1545#4285#0" expanded="false" />
+            <element signature="e#4330#5501#0" expanded="false" />
+            <element signature="e#5669#6082#0" expanded="false" />
+            <element signature="e#6172#6991#0" expanded="false" />
+            <element signature="e#8476#8671#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
